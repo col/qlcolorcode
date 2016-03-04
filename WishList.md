@@ -1,0 +1,3 @@
+This isn't my wishlist, it's yours.  Leave a comment if there's a feature you'd like to see in QLColorCode.  I can't promise to do them all, but I'd be happy to hear your ideas.
+
+**Update:**  Please restrict this to features other than support for new languages.  If there's a language you want supported take a look at the [FAQ](http://code.google.com/p/qlcolorcode/wiki/FAQ) and file an issue.  Thanks!
